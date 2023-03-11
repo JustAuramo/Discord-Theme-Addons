@@ -1,0 +1,60 @@
+/**
+    * @name Settings Dark Theme
+    * @version 1..0.0
+    * @description Dark Theme For Settings Page.
+    * @author Auramo#3853
+    *
+    * @website https://github.com/JustAuramo/Discord-Theme-Addons
+    * @source https://github.com/JustAuramo/Discord-Theme-Addons/blob/main/template.theme.css
+**/
+
+/* Add custom settings page color */
+
+/* Version Text Font */
+span.text-xs-normal-3O7EaX.line-18uChy {
+    color: #ffffff;
+    font-family: Apercu Pro;
+  }
+  /* Settings Text Font */
+  div.item-2GWPIy.themed-qqoYp3 {
+    color: #ffffff;
+    font-family: Apercu Pro;
+  }
+  /* Settings Header Text Color */
+  div.eyebrow-1Shfyi.headerText-10ez_d {
+    color: #6d9eeb;
+  }
+  /* Settings Sidebar Color */
+  div.sidebarRegionScroller-FXiQOh.thin-RnSY0a.scrollerBase-1Pkza4.fade-27X6bG {
+    background-color: #171717;
+  }
+    /* UserInfo Color */
+  div.userInfo-regn9W {
+    background-color: #1D1D1D;
+  }
+  
+  div.accountProfileCard-lbN7n- {
+    background-color: #1D1D1D;
+  }
+  
+  div.background-3d_SjE {
+    background-color: #1D1D1D;
+  }
+  
+  div.field-21XZwa {
+    background-color: #1D1D1D;
+  }
+  
+  div.fieldList-in8WkP {
+    background-color: #1D1D1D;
+  }
+  /* Account Side Color */
+  div.contentRegionScroller-2_GT_N.contentRegionShownSidebar-fHXkEg.auto-2TJ1RH.scrollerBase-1Pkza4 {
+    background-color: #171717;
+  }
+    /* ESC Button Color and font */
+  div.keybind-13vtq8 {
+    font-family: Apercu Pro;
+    color: #ffffff;
+  }
+
