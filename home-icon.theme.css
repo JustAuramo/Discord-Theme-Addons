@@ -1,0 +1,28 @@
+/**
+    * @name Home Icon (Custom)
+    * @version 1..0.0
+    * @description Use Custom Home Icon.
+    * @author Auramo#3853
+    *
+    * @website https://github.com/JustAuramo/Discord-Theme-Addons
+    * @source https://github.com/JustAuramo/Discord-Theme-Addons/blob/main/template.theme.css
+**/
+
+/* Add custom home icon */
+
+.homeIcon-r0w4ny {
+    display: none;
+}
+
+.tutorialContainer-1pL9QS .wrapper-3kah-n .childWrapper-1j_1ub {
+    background-color: transparent;
+}
+
+.tutorialContainer-1pL9QS .wrapper-3kah-n .childWrapper-1j_1ub:before {
+    position: absolute;
+    content: " ";
+    width: 45px; /* Change size if needed */
+    height: 45px; /* Change size if needed */
+    background-image: url('https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/cc0d15020292b11c1b622a3245dfb5a9_Af9gj0Pphg.png'); /* Replace the link, with your image link */
+    background-size: contain;
+}
